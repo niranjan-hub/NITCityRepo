@@ -8,4 +8,9 @@ public class Utility {
 	{
 		return new Date();
 	}
+	
+	public void showMessage(){
+		
+		System.out.println("Utility.showMessage()");
+	}
 }
